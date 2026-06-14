@@ -116,5 +116,5 @@ Keep these handy while you follow along!
 
 ---
 
-<p align="center">Created by Muhammad Fiaz | Co-Trainer: Najmi Hassan | Moderators: Faraz Ahmed, Zahra Khaliq</p>
+<p align="center">Trainer: Muhammad Fiaz | Co-Trainer: Najmi Hassan | Moderators: Faraz Ahmed, Zahra Khaliq</p>
 <p align="center">Organized by <a href="https://www.linkedin.com/company/icode-guru/">iCodeGuru</a></p>
